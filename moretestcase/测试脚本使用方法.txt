@@ -1,0 +1,10 @@
+测试脚本使用方法：
+step 1: 将所有源代码放入input文件夹
+
+step 2: 将源代码编译好
+
+step 3: 打开input文件夹下 auto_test.py文件，将call(['python', 'homework.py'])，第一个参数改成java，第二个参数改成你程序主类的名字，e.g. call(['java', 'homework'])
+
+step 4: 命令行进入到input文件夹下，执行命令 python auto_test.py
+
+step 5: 将input文件夹下 test_result.txt文件与 output文件夹下 output_collection.txt文件对比即可

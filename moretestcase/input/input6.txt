@@ -1,0 +1,11 @@
+2
+Angry(Bob)
+~Angry(Bob)
+7
+Hungry(x) | (~Happy(x))
+(((~Person(y)) | (~Problem(x)) )| Solved(y,x) )| Frustrated(y)
+((~Frustrated(x)) | Happy(x)) | Angry(x)
+Hungry(Bob)
+Person(Bob)
+Problem(Ai)
+(~Solved(Bob,Ai))

@@ -1,0 +1,7 @@
+1
+Rich(Me)
+4
+(~Phd(x))|Highlyqualified(x)
+Phd(x)|Earlyearnings(x)
+(~Highlyqualified(x))|Rich(x)
+(~Earlyearnings(x))|Rich(x)
